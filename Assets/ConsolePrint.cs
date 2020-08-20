@@ -1,23 +1,21 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System;
 
 public class ConsolePrint : MonoBehaviour
 {
-    int i = 0;
-    //GameObject BluePrefab;
-    //GameObject RedPrefab;
+    public int i;
+    
     // Start is called before the first frame update
     void Start()
     {
-         
+        i = 0;  
     }
 
     // Update is called once per frame
     void Update()
     {
-       
-        Console.WriteLine(i++);
+        i++;
+        Debug.Log(gameObject +":"+ i) ;
     }
 }

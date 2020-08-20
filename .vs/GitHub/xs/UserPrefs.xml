@@ -1,24 +1,13 @@
 ﻿<Properties StartupConfiguration="{CAEC3BBE-3D47-485C-7771-F0AE24B05E87}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ConsolePrint.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LoadAssets.cs">
     <Files>
-      <File FileName="Assets/ConsolePrint.cs" Line="13" Column="12" />
-      <File FileName="Assets/LoadAssets.cs" />
+      <File FileName="Assets/ConsolePrint.cs" Line="23" Column="2" />
+      <File FileName="Assets/LoadAssets.cs" Line="16" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="GitHub" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="ConsolePrint.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7b0d47a6-531a-4af0-92b4-ad5b5effec2a" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="deebf257-318c-44df-8e9e-e12cffbd26a9" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
