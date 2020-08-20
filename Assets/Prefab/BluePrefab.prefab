@@ -1,5 +1,17 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &4060705744140077924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5274245423196048241}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7e84063dfcda41e3a5165aabbb965e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &4356019013507434233
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -65,7 +77,18 @@ PrefabInstance:
     - target: {fileID: 4490679891126880625, guid: db663315029b84fd88d05968f166f585,
         type: 3}
       propertyPath: m_Name
-      value: BlueSphere
+      value: BluePrefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 8449406500566322568, guid: db663315029b84fd88d05968f166f585,
+        type: 3}
+      propertyPath: m_Name
+      value: BluePrefab
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db663315029b84fd88d05968f166f585, type: 3}
+--- !u!1 &5274245423196048241 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8449406500566322568, guid: db663315029b84fd88d05968f166f585,
+    type: 3}
+  m_PrefabInstance: {fileID: 4356019013507434233}
+  m_PrefabAsset: {fileID: 0}
