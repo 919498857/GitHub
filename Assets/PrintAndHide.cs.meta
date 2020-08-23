@@ -3,7 +3,14 @@ guid: 61997678007c247b89cbed112bf09454
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - rend: {instanceID: 0}
+  - redObj: {fileID: 2255644289945507876, guid: 9f8cd680f93dc47bb96b1afc8de556c5,
+      type: 3}
+  - blueObj: {fileID: 8449406500566322568, guid: db663315029b84fd88d05968f166f585,
+      type: 3}
+  - Red: {fileID: 2255644289945507876, guid: 9f8cd680f93dc47bb96b1afc8de556c5, type: 3}
+  - Blue: {fileID: 8449406500566322568, guid: db663315029b84fd88d05968f166f585, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
