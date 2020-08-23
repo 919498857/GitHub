@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{CAEC3BBE-3D47-485C-7771-F0AE24B05E87}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LoadAssets.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PrintAndHide.cs">
     <Files>
       <File FileName="Assets/LoadAssets.cs" Line="18" Column="18" />
-      <File FileName="Assets/PrintAndHide.cs" Line="17" Column="18" />
+      <File FileName="Assets/PrintAndHide.cs" Line="21" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="deebf257-318c-44df-8e9e-e12cffbd26a9" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f679cabb-7174-472f-aa73-9fdf27474a65" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
